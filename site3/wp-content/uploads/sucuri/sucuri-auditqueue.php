@@ -1,0 +1,35 @@
+<?php
+// datastore=auditqueue;
+// created_on=1662366565;
+// updated_on=1662366636;
+exit(0);
+?>
+1662366565_5479:"Warning: root, 127.0.0.1; Plugin activated: Sucuri Security - Auditing, Malware Scanner and Hardening (v1.8.33; sucuri-scanner\/sucuri.php)"
+1662366795_8281:"Warning: root, 127.0.0.1; Plugin activated: Wordfence Security (v7.6.0; wordfence\/wordfence.php)"
+1662367756_49:"Warning: root, 127.0.0.1; Plugin activated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662367836_052:"Notice: root, 127.0.0.1; Page was updated; ID: 85; name: Contact"
+1662367838_1185:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 359,Old status: new,New status: inherit,Title: Contact"
+1662367842_5229:"Notice: root, 127.0.0.1; Page was updated; ID: 85; name: Contact"
+1662368057_6801:"Notice: root, 127.0.0.1; Media file added; ID: 360; name: logo-financio; type: image\/png"
+1662368058_9967:"Notice: root, 127.0.0.1; Media file added; ID: 361; name: action-african-american-african-descent-agreement-american-black-1448527-pxhere.com_; type: image\/jpeg"
+1662368060_5352:"Notice: root, 127.0.0.1; Media file added; ID: 362; name: logo-financio-white; type: image\/png"
+1662368105_2297:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 363,Old status: new,New status: inherit,Title: Contact"
+1662368207_7572:"Notice: root, 127.0.0.1; Page was updated; ID: 85; name: Contact"
+1662368207_7695:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 364,Old status: new,New status: inherit,Title: Contact"
+1662368210_1732:"Notice: root, 127.0.0.1; Page was updated; ID: 85; name: Contact"
+1662368212_6185:"Warning: root, 127.0.0.1; Post deleted: (multiple entries): Post id: 363,Post author: 1,Post type: revision,Post status: inherit,Post inserted: 2022-09-05 08:56:06,Post modified: 2022-09-05 08:56:06,Post guid: http:\/\/127.0.0.1\/site3\/?p=363,Post title: Contact"
+1662368277_3397:"Notice: root, 127.0.0.1; Page was updated; ID: 85; name: Contact"
+1662368277_3531:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 365,Old status: new,New status: inherit,Title: Contact"
+1662368279_7307:"Notice: root, 127.0.0.1; Page was updated; ID: 85; name: Contact"
+1662368572_0487:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 366,Old status: new,New status: inherit,Title: Contact"
+1662368798_2741:"Notice: root, 127.0.0.1; Everest_form status has been changed; details: ID: 367,Old status: new,New status: publish,Title: Contact Form"
+1662368798_3081:"Warning: root, 127.0.0.1; Plugin activated: Everest Forms (v1.9.3; everest-forms\/everest-forms.php)"
+1662368920_4826:"Notice: root, 127.0.0.1; Everest_form status has been changed; details: ID: 368,Old status: new,New status: publish,Title: pass"
+1662370248_7325:"Notice: root, 127.0.0.1; Page status has been changed; details: ID: 369,Old status: new,New status: auto-draft,Title: Auto Draft"
+1662370262_6928:"Notice: root, 127.0.0.1; Page status has been changed; details: ID: 369,Old status: auto-draft,New status: publish,Title: Sign Up"
+1662370262_6939:"Notice: root, 127.0.0.1; Page was created; ID: 369; name: Sign Up"
+1662370262_7109:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 370,Old status: new,New status: inherit,Title: Sign Up"
+1662370265_176:"Notice: root, 127.0.0.1; Page was updated; ID: 369; name: Sign Up"
+1662370495_1102:"Warning: root, 127.0.0.1; Plugin activated: iThemes Security (v8.1.2; better-wp-security\/better-wp-security.php)"
+1662370858_3543:"Debug: root, 127.0.0.1; Sucuri plugin has been deactivated"
+1662370858_3557:"Warning: root, 127.0.0.1; Plugin deactivated: Sucuri Security - Auditing, Malware Scanner and Hardening (v1.8.33; sucuri-scanner\/sucuri.php)"

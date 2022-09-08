@@ -1,0 +1,2 @@
+2022-09-05T17:36:26+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in C:\Bitnami\wordpress-5.9.1-0\apache2\htdocs\site3\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\featured-product.asset.php on line 1
+
